@@ -17,7 +17,7 @@ import time
 
 # 替换为你的 OpenRouter API 密钥
 OPENROUTER_API_KEY = 'your_api_key'
-OPENROUTER_API_URL = 'https://api.siliconflow.cn/v1/chat/completions'
+OPENROUTER_API_URL = 'your_api_url'
 
 # 加密密钥管理
 service_id = "chatbot_service"
